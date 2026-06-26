@@ -1,21 +1,11 @@
 <h2 align="center">Xu Tongye</h2>
 
 <p align="center">
-  PhD Student at Zhejiang University<br>
-  Humanoid Robotics | Embodied Control | Motion Generation
+  PhD Student at Zhejiang University
 </p>
 
 <p align="center">
-  <a href="mailto:tongye_xu@outlook.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-tongye__xu%40outlook.com-555555?style=flat-square">
-  </a>
-</p>
-
-<p align="center">
-  <kbd>locomanipulation</kbd>
-  <kbd>whole-body control</kbd>
-  <kbd>WAM</kbd>
-  <kbd>motion generator</kbd>
+  &#9993;&#65039; <a href="mailto:tongye_xu@outlook.com">tongye_xu@outlook.com</a>
 </p>
 
 ---
