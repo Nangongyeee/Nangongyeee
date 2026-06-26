@@ -8,14 +8,6 @@
   &#9993;&#65039; <a href="mailto:tongye_xu@outlook.com">tongye_xu@outlook.com</a>
 </p>
 
-#### &#127891; Current
-
-> PhD Student, Zhejiang University
-
-#### &#128269; Focus
-
-`Locomanipulation` &middot; `Whole-body control` &middot; `WAM` &middot; `Motion generator`
-
 #### &#129302; Experience
 
 - **LimX Dynamics** &mdash; Former Research Intern
