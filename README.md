@@ -1,13 +1,40 @@
-### Xu Tongye
+<h2 align="center">Xu Tongye</h2>
 
-PhD Student at Zhejiang University  
-Humanoid Robotics | Embodied Control | Motion Generation  
-&#9993;&#65039; [tongye_xu@outlook.com](mailto:tongye_xu@outlook.com)
+<p align="center">
+  PhD Student at Zhejiang University<br>
+  Humanoid Robotics | Embodied Control | Motion Generation
+</p>
 
-`locomanipulation` `whole-body control` `WAM` `motion generator`
+<p align="center">
+  <a href="mailto:tongye_xu@outlook.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-tongye__xu%40outlook.com-555555?style=flat-square">
+  </a>
+</p>
+
+<p align="center">
+  <kbd>locomanipulation</kbd>
+  <kbd>whole-body control</kbd>
+  <kbd>WAM</kbd>
+  <kbd>motion generator</kbd>
+</p>
 
 ---
 
-|  |  |
-| --- | --- |
-| &#127891; **Current**<br><br>&bull; PhD Student, Zhejiang University<br><br>&#128269; **Focus**<br><br>&bull; Locomanipulation<br>&bull; Whole-body control<br>&bull; WAM<br>&bull; Motion generator | &#129302; **Experience**<br><br>&bull; Former Research Intern, LimX Dynamics<br>&bull; Former Research Intern, Institute for AI Industry Research (AIR), Tsinghua University<br>&bull; Former Algorithm Group Member, T-DT Lab, Northeastern University<br><br>&#127942; **Awards**<br><br>&bull; 2023-2025: First Runner-up, Second Runner-up, and Third Runner-up, RoboMaster University Championship (RMUC)<br>&bull; 2024: National First Prize, Team Leader of National College Student Smart Car Competition |
+#### &#127891; Current
+
+> PhD Student, Zhejiang University
+
+#### &#128269; Focus
+
+`Locomanipulation` &middot; `Whole-body control` &middot; `WAM` &middot; `Motion generator`
+
+#### &#129302; Experience
+
+- **LimX Dynamics** &mdash; Former Research Intern
+- **Institute for AI Industry Research (AIR), Tsinghua University** &mdash; Former Research Intern
+- **T-DT Lab, Northeastern University** &mdash; Former Algorithm Group Member
+
+#### &#127942; Awards
+
+- **RoboMaster University Championship (RMUC), 2023-2025** &mdash; First Runner-up, Second Runner-up, and Third Runner-up
+- **2024 National College Student Smart Car Competition** &mdash; National First Prize, Team Leader
