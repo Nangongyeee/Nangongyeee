@@ -1,59 +1,13 @@
-<h3>Xu Tongye</h3>
+### Xu Tongye
 
-<p>
-  PhD Student at Zhejiang University<br/>
-  Humanoid Robotics | Embodied Control | Motion Generation<br/>
-  &#9993;&#65039; <a href="mailto:tongye_xu@outlook.com">tongye_xu@outlook.com</a>
-</p>
+PhD Student at Zhejiang University  
+Humanoid Robotics | Embodied Control | Motion Generation  
+&#9993;&#65039; [tongye_xu@outlook.com](mailto:tongye_xu@outlook.com)
 
-<p>
-  <code>locomanipulation</code>
-  <code>whole-body control</code>
-  <code>WAM</code>
-  <code>motion generator</code>
-</p>
+`locomanipulation` `whole-body control` `WAM` `motion generator`
 
-<hr/>
+---
 
-<table>
-  <tr>
-    <td valign="top" width="42%">
-      <h3>&#127891; Current</h3>
-      <ul>
-        <li>PhD Student, Zhejiang University</li>
-      </ul>
-
-      <h3>&#128269; Focus</h3>
-      <ul>
-        <li>Locomanipulation</li>
-        <li>Whole-body control</li>
-        <li>WAM</li>
-        <li>Motion generator</li>
-      </ul>
-    </td>
-    <td valign="top" width="58%">
-      <h3>&#129302; Experience</h3>
-      <ul>
-        <li>Former Research Intern, LimX Dynamics</li>
-        <li>Former Research Intern, Institute for AI Industry Research (AIR), Tsinghua University</li>
-        <li>Former Algorithm Group Member, T-DT Lab, Northeastern University</li>
-      </ul>
-
-      <h3>&#127942; Awards</h3>
-      <table>
-        <tr>
-          <th>Season / Year</th>
-          <th>Recognition</th>
-        </tr>
-        <tr>
-          <td>2023-2025</td>
-          <td>First Runner-up, Second Runner-up, and Third Runner-up, RoboMaster University Championship (RMUC)</td>
-        </tr>
-        <tr>
-          <td>2024</td>
-          <td>National First Prize, Team Leader of National College Student Smart Car Competition</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+|  |  |
+| --- | --- |
+| &#127891; **Current**<br><br>&bull; PhD Student, Zhejiang University<br><br>&#128269; **Focus**<br><br>&bull; Locomanipulation<br>&bull; Whole-body control<br>&bull; WAM<br>&bull; Motion generator | &#129302; **Experience**<br><br>&bull; Former Research Intern, LimX Dynamics<br>&bull; Former Research Intern, Institute for AI Industry Research (AIR), Tsinghua University<br>&bull; Former Algorithm Group Member, T-DT Lab, Northeastern University<br><br>&#127942; **Awards**<br><br>&bull; 2023-2025: First Runner-up, Second Runner-up, and Third Runner-up, RoboMaster University Championship (RMUC)<br>&bull; 2024: National First Prize, Team Leader of National College Student Smart Car Competition |
