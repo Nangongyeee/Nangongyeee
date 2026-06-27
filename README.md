@@ -26,7 +26,7 @@
 - **Institute for AI Industry Research (AIR), Tsinghua University** &mdash; Former Research Intern
 - **T-DT Lab, Northeastern University** &mdash; Former Algorithm Group Member
 
-#### &#127942; Awards
+#### &#127942; Awards <img src="./assets/award.gif" width="24" alt="Award animation">
 
 - **RoboMaster University Championship (RMUC), 2023-2025** &mdash; First Runner-up, Second Runner-up, and Third Runner-up
 - **2024 National College Student Smart Car Competition** &mdash; National First Prize, Team Leader
